@@ -75,7 +75,6 @@ xx工程专业
 * XXX 奖学金
 
 
-> 各大互联网公司 Android 内推到 http://j.codekk.com/
 
 
 
